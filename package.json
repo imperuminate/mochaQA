@@ -1,0 +1,14 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "mocha test/basics.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
